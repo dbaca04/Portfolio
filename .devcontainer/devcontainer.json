@@ -68,6 +68,7 @@
         "ms-dotnettools.csdevkit",
         "ms-vscode.PowerShell",
         "ms-vscode.vscode-node-azure-pack",
+        "oderwat.indent-rainbow",
         "VisualStudioExptTeam.vscodeintellicode"
       ],
       "settings": {
